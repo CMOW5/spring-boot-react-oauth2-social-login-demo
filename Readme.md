@@ -1,3 +1,7 @@
+This code was created by callicoder: 
+
+the original post: https://www.callicoder.com/spring-boot-security-oauth2-social-login-part-1/
+
 # Spring Boot React OAuth2 Social Login Demo
 
 ![App Screenshot](screenshot.png)
